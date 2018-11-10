@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w Web_Development_Learning/Modern_Portfolio/scss/ -o Web_Development_Learning/Modern_Portfolio/dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzavada/portfolio.git"
+  },
+  "author": "Matthew Zavada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzavada/portfolio/issues"
+  },
+  "homepage": "https://github.com/mzavada/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
