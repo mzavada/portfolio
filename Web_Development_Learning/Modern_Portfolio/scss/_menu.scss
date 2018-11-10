@@ -42,3 +42,114 @@
         }
     }
 }
+
+//Menu Overlay
+.menu {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    opacity: .96;
+    visibility: hidden;
+
+    &.show {
+        visibility: visible;
+    }
+
+    //Shortcut for referencing .menu-branding.  "&" represents ".menu"
+    &-branding,
+    &-nav {
+        display: flex;
+        flex-flow: column wrap;
+        align-items: center;
+        justify-content: center;
+        float: left;
+        width: 50%;
+        height: 100vh;
+        overflow: hidden;
+
+    }
+
+    //Navigation side of the menu
+    &-nav {
+        margin: 0;
+        padding: 0;
+        background: darken($primary-color, 5);
+        list-style: none;
+        //Move the nav div to the top out of view
+        transform: translate3d(0, -100%, 0);
+        //Provides smooth transition for all attributes
+        @include easeOut;
+
+        &.show {
+            //Move the nav div from the top down into view
+            transform: translate3d(0, 0, 0);
+        }
+    }
+
+    //Branding side of the menu
+    &-branding {
+        background: $primary-color;
+        //Move the nav div to the top out of view
+        transform: translate3d(0, 100%, 0);
+        //Provides smooth transition for all attributes
+        @include easeOut;
+
+        &.show {
+            //Move the nav div from the top down into view
+            transform: translate3d(0, 0, 0);
+        }
+
+        .portrait {
+            width: 250px;
+            height: 250px;
+            background: url('../img/portraitsmall.jpg') center;
+            background-size: 250px;
+            border-radius: 50%;
+            border: solid 3px $secondary-color;
+            opacity: 100;
+        }
+    }
+
+    .nav-item {
+        //Move .nav-item elements off the screen to the right
+        transform: translate3d(600px, 0, 0);
+        @include easeOut;
+
+        &.show {
+            //Move the .nav-item elements to the top with the rest of the background
+            transform: translate3d(0, 0, 0);
+        }
+
+        //Color the current link within the nav-item with class of current
+        &.current>a {
+            color: $secondary-color;
+        }
+    }
+
+    .nav-link {
+        display: inline-block;
+        position: relative;
+        font-size: 30px;
+        text-transform: uppercase;
+        padding: 1rem 0;
+        font-weight: 300;
+        color: #fff;
+        text-decoration: none;
+        @include easeOut;
+
+        &:hover {
+            color: $secondary-color;
+        }
+    }
+}
+
+//Delay each nav item slide by 0.1s
+@for $x from 1 through 4 {
+
+    //Interate through each .nav-item element
+    .nav-item:nth-child(#{$x}) {
+
+        //Delay transition by increments of .1 seconds
+        transition-delay: $x * 0.1s;
+    }
+}
