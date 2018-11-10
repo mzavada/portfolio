@@ -1,5 +1,7 @@
 //Import SCSS config file where variables and mixens are kept
 @import 'config';
+//Import SCSS menu file that contains code for menu styling
+@import 'menu';
 
 
 //Ensure any padding is calculated into sizes for all elements
