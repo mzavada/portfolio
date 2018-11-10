@@ -14,4 +14,31 @@
         background: #fff;
         @include easeOut;
     }
+
+    //Rotate into X with menu lines
+    //Refrencing the menu-btn when it has the class close
+    &.close {
+        transform: rotate(180deg);
+
+        .btn-line {
+
+            //Reference each line by using psuedo class of nth-child
+            //Line 1 - Rotate
+            &:nth-child(1) {
+                transform: rotate(45deg) translate(5px, 5px);
+                background: $secondary-color;
+            }
+
+            //Line 2 - Hide
+            &:nth-child(2) {
+                opacity: 0;
+            }
+
+            //Line 3 - Rotate
+            &:nth-child(3) {
+                transform: rotate(-45deg) translate(7px, -6px);
+                background: $secondary-color;
+            }
+        }
+    }
 }
