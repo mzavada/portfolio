@@ -24,6 +24,7 @@ h3 {
     margin: 0;
     font-weight: 400;
 
+
     //Use "&" to signify that we want to target an h1, h2, or h3 with a class of lg-heading
     &.lg-heading {
         font-size: 6rem;
@@ -39,7 +40,9 @@ h3 {
 
 a {
     color: #fff;
+
     text-decoration: none;
+
 }
 
 header {

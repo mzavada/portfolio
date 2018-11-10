@@ -1,8 +1,9 @@
 $primary-color: #444;
 $secondary-color: #eece1a;
-$show-home-image: true;
-$home-image: url(../img/background.jpg);
+$show-home-img: true;
+$home-img: url(../img/background.jpg);
 $background-opacity: 0.9;
+
 
 @mixin easeOut {
     transition: all .7s ease-out;
@@ -11,11 +12,11 @@ $background-opacity: 0.9;
 @mixin background {
 
     //If statement to know if the home image should be visible - used when menu not engaged
-    @if $show-home-image {
+    @if $show-home-img {
 
         //Apply to body tag with id of bg-img 
         &#bg-img {
-            background: $home-image;
+            background: $home-img;
             background-attachment: fixed;
             background-size: cover;
 
