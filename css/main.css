@@ -1,6 +1,6 @@
 .menu-btn {
   position: absolute;
-  z-index: 3;
+  z-index: 3.5;
   right: 35px;
   top: 35px;
   cursor: pointer;
@@ -25,7 +25,7 @@
 .menu-btn.close .btn-line:nth-child(1) {
   -webkit-transform: rotate(45deg) translate(5px, 5px);
           transform: rotate(45deg) translate(5px, 5px);
-  background: #008ba3;
+  background: #45cbef;
 }
 
 .menu-btn.close .btn-line:nth-child(2) {
@@ -35,7 +35,7 @@
 .menu-btn.close .btn-line:nth-child(3) {
   -webkit-transform: rotate(-45deg) translate(7px, -6px);
           transform: rotate(-45deg) translate(7px, -6px);
-  background: #008ba3;
+  background: #45cbef;
 }
 
 .menu {
@@ -73,7 +73,7 @@
 .menu-nav {
   margin: 0;
   padding: 0;
-  background: #292929;
+  background: #1a1a16;
   list-style: none;
   -webkit-transform: translate3d(0, -100%, 0);
           transform: translate3d(0, -100%, 0);
@@ -87,7 +87,7 @@
 }
 
 .menu-branding {
-  background: #363636;
+  background: #272822;
   -webkit-transform: translate3d(0, 100%, 0);
           transform: translate3d(0, 100%, 0);
   -webkit-transition: all .5s ease-out;
@@ -105,7 +105,7 @@
   background: url("../img/portraitsmall.jpg") center;
   background-size: 250px;
   border-radius: 50%;
-  border: solid 3px #008ba3;
+  border: solid 3px #45cbef;
   opacity: 100;
 }
 
@@ -122,7 +122,7 @@
 }
 
 .menu .nav-item.current > a {
-  color: #008ba3;
+  color: #45cbef;
 }
 
 .menu .nav-link {
@@ -139,7 +139,7 @@
 }
 
 .menu .nav-link:hover {
-  color: #008ba3;
+  color: #45cbef;
 }
 
 .nav-item:nth-child(1) {
@@ -168,7 +168,7 @@
 }
 
 body {
-  background: #363636;
+  background: #272822;
   color: #fff;
   height: 100%;
   margin: 0;
@@ -190,7 +190,7 @@ body#bg-img:after {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-color: rgba(54, 54, 54, 0.9);
+  background-color: rgba(39, 40, 34, 0.9);
 }
 
 h1,
@@ -211,7 +211,7 @@ h2.sm-heading,
 h3.sm-heading {
   margin-bottom: 2rem;
   padding: 0.2rem, 1rem;
-  background: rgba(59, 59, 59, 0.5);
+  background: rgba(44, 46, 39, 0.5);
 }
 
 a {
@@ -226,7 +226,7 @@ header {
 }
 
 .text-secondary {
-  color: #008ba3;
+  color: #45cbef;
 }
 
 main {
@@ -244,7 +244,7 @@ main .icons a {
 }
 
 main .icons a:hover {
-  color: #008ba3;
+  color: #45cbef;
   -webkit-transition: all .5s ease-out;
   transition: all .5s ease-out;
 }
@@ -272,7 +272,7 @@ main#home h1 {
   grid-area: bioimage;
   margin: auto;
   border-radius: 50%;
-  border: #008ba3 3px solid;
+  border: #45cbef 3px solid;
   width: 250px;
 }
 
@@ -303,9 +303,9 @@ main#home h1 {
 }
 
 .about-info .job {
-  background: #434343;
+  background: #34362e;
   padding: 0.5rem;
-  border-bottom: #008ba3 5px solid;
+  border-bottom: #45cbef 5px solid;
 }
 
 .projects {
@@ -323,7 +323,7 @@ main#home h1 {
 
 .projects img:hover {
   opacity: 0.5;
-  border-color: #008ba3;
+  border-color: #45cbef;
   -webkit-transition: all .5s ease-out;
   transition: all .5s ease-out;
 }
@@ -353,12 +353,12 @@ main#home h1 {
 }
 
 .boxes div:hover {
-  background: #008ba3;
-  color: #fff;
+  background: #45cbef;
+  color: #000;
 }
 
 .boxes div:hover span {
-  color: #363636;
+  color: #272822;
 }
 
 .btn, .btn-dark, .btn-light {
@@ -369,8 +369,8 @@ main#home h1 {
 }
 
 .btn:hover, .btn-dark:hover, .btn-light:hover {
-  background: #008ba3;
-  color: #fff;
+  background: #45cbef;
+  color: #000;
 }
 
 .btn-dark {
@@ -379,14 +379,14 @@ main#home h1 {
 }
 
 .btn-light {
-  background: #767676;
+  background: #6a6d5d;
   color: #fff;
 }
 
 #main-footer {
   text-align: center;
   padding: 1rem;
-  background: #1d1d1d;
+  background: #0c0c0b;
   color: #fff;
   height: 60px;
 }
