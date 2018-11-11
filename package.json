@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "index.js",
+  "homepage": "https://mzavada.github.io/portfolio",
   "scripts": {
-    "sass": "node-sass -w Web_Development_Learning/Modern_Portfolio/scss/ -o Web_Development_Learning/Modern_Portfolio/dist/css/ --recursive"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,8 +16,8 @@
   "bugs": {
     "url": "https://github.com/mzavada/portfolio/issues"
   },
-  "homepage": "https://github.com/mzavada/portfolio#readme",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0"
   }
 }

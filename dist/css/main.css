@@ -12,7 +12,7 @@
   width: 28px;
   height: 3px;
   margin: 0 0 5px 0;
-  background: #000;
+  background: #fff;
   -webkit-transition: all .5s ease-out;
   transition: all .5s ease-out;
 }
@@ -73,7 +73,7 @@
 .menu-nav {
   margin: 0;
   padding: 0;
-  background: #616161;
+  background: #292929;
   list-style: none;
   -webkit-transform: translate3d(0, -100%, 0);
           transform: translate3d(0, -100%, 0);
@@ -87,7 +87,7 @@
 }
 
 .menu-branding {
-  background: #6e6e6e;
+  background: #363636;
   -webkit-transform: translate3d(0, 100%, 0);
           transform: translate3d(0, 100%, 0);
   -webkit-transition: all .5s ease-out;
@@ -132,7 +132,7 @@
   text-transform: uppercase;
   padding: 1rem 0;
   font-weight: 300;
-  color: #000;
+  color: #fff;
   text-decoration: none;
   -webkit-transition: all .5s ease-out;
   transition: all .5s ease-out;
@@ -168,8 +168,8 @@
 }
 
 body {
-  background: #6e6e6e;
-  color: #000;
+  background: #363636;
+  color: #fff;
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -190,7 +190,7 @@ body#bg-img:after {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-color: rgba(110, 110, 110, 0.9);
+  background-color: rgba(54, 54, 54, 0.9);
 }
 
 h1,
@@ -211,7 +211,7 @@ h2.sm-heading,
 h3.sm-heading {
   margin-bottom: 2rem;
   padding: 0.2rem, 1rem;
-  background: rgba(115, 115, 115, 0.5);
+  background: rgba(59, 59, 59, 0.5);
 }
 
 a {
@@ -231,7 +231,7 @@ header {
 
 main {
   padding: 4rem;
-  min-height: calc(100vh-60px);
+  min-height: calc(100vh - 60px);
 }
 
 main .icons {
@@ -240,7 +240,7 @@ main .icons {
 
 main .icons a {
   padding: 0.5rem;
-  color: #404040;
+  color: white;
 }
 
 main .icons a:hover {
@@ -303,17 +303,106 @@ main#home h1 {
 }
 
 .about-info .job {
-  background: #7b7b7b;
+  background: #434343;
   padding: 0.5rem;
   border-bottom: #008ba3 5px solid;
+}
+
+.projects {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.7rem;
+}
+
+.projects img {
+  width: 100%;
+  border: 3px #fff solid;
+}
+
+.projects img:hover {
+  opacity: 0.5;
+  border-color: #008ba3;
+  -webkit-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+}
+
+.boxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 1rem;
+}
+
+.boxes div {
+  font-size: 2rem;
+  border: 3px #fff solid;
+  padding: 1.5rem 2.5rem;
+  margin-bottom: 3rem;
+  -webkit-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+}
+
+.boxes div:hover {
+  background: #008ba3;
+  color: #fff;
+}
+
+.boxes div:hover span {
+  color: #363636;
+}
+
+.btn, .btn-dark, .btn-light {
+  display: block;
+  padding: 0.5rem 1rem;
+  border: 0;
+  margin-bottom: .3rem;
+}
+
+.btn:hover, .btn-dark:hover, .btn-light:hover {
+  background: #008ba3;
+  color: #fff;
+}
+
+.btn-dark {
+  background: black;
+  color: #fff;
+}
+
+.btn-light {
+  background: #767676;
+  color: #fff;
 }
 
 #main-footer {
   text-align: center;
   padding: 1rem;
-  background: #555555;
-  color: set-text-color(#6e6e6e);
+  background: #1d1d1d;
+  color: #fff;
   height: 60px;
+}
+
+@media screen and (min-width: 1171px) {
+  .projects {
+    -ms-grid-columns: (1fr)[4];
+        grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media screen and (min-width: 836px) and (max-width: 1170px) {
+  .projects {
+    -ms-grid-columns: (1fr)[3];
+        grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media screen and (max-width: 835px) {
@@ -359,6 +448,10 @@ main#home h1 {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
+  .projects {
+    -ms-grid-columns: (1fr)[2];
+        grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -367,6 +460,10 @@ main#home h1 {
   }
   h1.lg-heading {
     font-size: 4rem;
+  }
+  .projects {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
   }
 }
 /*# sourceMappingURL=main.css.map */

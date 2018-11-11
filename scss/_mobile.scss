@@ -1,9 +1,23 @@
 //Widescreens
 
-@include mediaXl {}
+@include mediaXl {
+
+    //Work
+    .projects {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+}
 
 //Desktops and Laptops
-@include mediaLg {}
+@include mediaLg {
+
+    //Work
+    .projects {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+}
 
 
 //Tablets and small laptops
@@ -59,6 +73,11 @@
             'job3';
         grid-template-columns: 1fr;
     }
+
+    //Work
+    .projects {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 //Smartphones
@@ -69,5 +88,10 @@
 
     h1.lg-heading {
         font-size: 4rem;
+    }
+
+    //Work
+    .projects {
+        grid-template-columns: 1fr;
     }
 }
