@@ -5,18 +5,18 @@
 ![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
 # Zavada Web Dev
 
-## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="20px"/>Table of Contents
+## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="25px"/> Table of Contents
 - [Learning Tracker](#learning_tracker)
 - [YouTube Training](#youtube_training)
 
 
-## Learning Tracker
+## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="25px"/> Learning Tracker
 HTML 5
 
 
 [Top](#zavada_web_dev)
 
-## YouTube Training
+## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="25px"/> YouTube Training
 - [Using Git with VS Code](https://www.youtube.com/watch?v=9cMWR-EGFuY)
 - [Markdown Tutorial](https://www.youtube.com/watch?v=pTCROLZLhDM)
 - Travery Media
