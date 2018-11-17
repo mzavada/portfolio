@@ -19,9 +19,9 @@
   },
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "include-media": "^1.4.9",
     "node-sass": "^4.10.0"
   },
-
   "devDependencies": {
     "gh-pages-deploy": "^0.5.0"
   }
