@@ -5,6 +5,7 @@
   "main": "index.js",
   "homepage": "https://mzavada.github.io/portfolio",
   "scripts": {
+    "commit": "git add . && git commit && git push",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
