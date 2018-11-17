@@ -1,8 +1,5 @@
-<!--Setup small logo image-->
-[logo]:https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png
+<img src="https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png" atl="Zavada Web Dev" style="align:center"/>
 
-
-![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
 # Zavada Web Dev
 
 ## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="25px"/> Table of Contents
