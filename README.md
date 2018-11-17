@@ -2,10 +2,10 @@
 [logo]:https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png
 
 
-![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
+![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png =20px)
 # Zavada Web Dev
 
-## ![Zavada Web Dev][logo] Table of Contents
+## ![Zavada Web Dev][logo]Table of Contents
 - [Learning Tracker](#learning_tracker)
 - [YouTube Training](#youtube_training)
 
@@ -14,7 +14,7 @@
 HTML 5
 
 
-[Top](#zavada_web_dev =20px)
+[Top](#zavada_web_dev)
 
 ## YouTube Training
 - [Using Git with VS Code](https://www.youtube.com/watch?v=9cMWR-EGFuY)
