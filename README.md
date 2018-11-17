@@ -1,8 +1,6 @@
-[logo]:https://github.com/mzavada/portfolio/blob/master/dist/img/favicon.ico
+# Zavada Web Dev ![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
 
-![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
-
-# Zavada Web Dev
+![logo]:https://github.com/mzavada/portfolio/blob/master/dist/img/favicon.ico
 
 ## [Logo][logo] Table of Contents
 
