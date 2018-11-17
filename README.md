@@ -6,8 +6,9 @@
 
 ## Table of Contents
 
-- [Learning Tracker](#user-content--learning-tracker)
-- [YouTube Training](#user-content--youtube-training)
+- [Learning Tracker](#learning-tracker)
+- [Online Courses](#online-courses)
+- [YouTube Training](#youtube-training)
 
 ## Learning Tracker
 
@@ -39,10 +40,13 @@
 |NPM Scripts                |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |AJAX                       |               |                   |               |       |       |
 
+[Top](#user-content-zavada-web-dev)
+
+## Online Courses
 
 [Top](#user-content-zavada-web-dev)
 
-## ![Logo][logo] YouTube Training
+## YouTube Training
 
 - [Using Git with VS Code](https://www.youtube.com/watch?v=9cMWR-EGFuY)
 - [Markdown Tutorial](https://www.youtube.com/watch?v=pTCROLZLhDM)
