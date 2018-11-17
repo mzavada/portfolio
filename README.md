@@ -1,4 +1,8 @@
-# Learning Tracker
+![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
+# Zavada Web Dev
+
+
+## Learning Tracker
 HTML 5
 
 
