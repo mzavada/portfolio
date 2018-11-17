@@ -2,10 +2,10 @@
 [logo]:https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png
 
 
-![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png =20px)
+![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
 # Zavada Web Dev
 
-## ![Zavada Web Dev][logo]Table of Contents
+## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="20px"/>Table of Contents
 - [Learning Tracker](#learning_tracker)
 - [YouTube Training](#youtube_training)
 
