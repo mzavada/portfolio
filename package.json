@@ -5,8 +5,7 @@
   "main": "index.js",
   "homepage": "https://mzavada.github.io/portfolio",
   "scripts": {
-    "deploy": "gh-pages-deploy",
-    "clean-source": "rimraf README.md src webroot package.json"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -21,16 +20,7 @@
     "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0"
   },
-  "gh-pages-deploy": {
-    "staticpath": "dist",
-    "cname": "mattzavada.com",
-    "prep": [],
-    "commit": "a custom commit message",
-    "post": [
-      "clean-source"
-    ],
-    "noprompt": false
-  },
+
   "devDependencies": {
     "gh-pages-deploy": "^0.5.0"
   }
