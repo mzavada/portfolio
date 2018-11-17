@@ -3,15 +3,15 @@
 # Zavada Web Dev
 
 ## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="25px"/> Table of Contents
-- [Learning Tracker](#learning_tracker)
-- [YouTube Training](#youtube_training)
+- [Learning Tracker](#user-content--learning-tracker)
+- [YouTube Training](#user-content--youtube-training)
 
 
 ## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="25px"/> Learning Tracker
 HTML 5
 
 
-[Top](#zavada_web_dev)
+[Top](#user-content-zavada-web-dev)
 
 ## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/z_sqlogo.png" width="25px"/> YouTube Training
 - [Using Git with VS Code](https://www.youtube.com/watch?v=9cMWR-EGFuY)
@@ -19,4 +19,110 @@ HTML 5
 - Travery Media
     - [Responsive Portfolio Website](https://www.youtube.com/watch?v=gYzHS-n2gqU)
 
-[Top](#zavada_web_dev)
+
+sdf
+ds
+sd
+sdf
+sdf
+sd
+fsd
+fsd
+fsd
+fsd
+fsd
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sdf
+
+sd
+f
+sdf
+
+sdf
+
+
+sd
+f
+sdf
+sd
+s
+df
+
+
+sdf
+
+sdf
+
+sd
+f
+sd
+f
+s
+df
+
+s
+
+sdf
+
+
+
+sd
+
+
+
+sdf
+
+
+dsf
+
+sd
+
+
+d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Top](#user-content-zavada-web-dev)
