@@ -1,8 +1,11 @@
-<img src="https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png" atl="Zavada Web Dev" style="align:center" class="mainImage"/>
+[logo]:https://github.com/mzavada/portfolio/blob/master/dist/img/favicon.ico
+
+![Zavada Web Dev](https://github.com/mzavada/portfolio/blob/master/dist/img/zwd_logo.png)
 
 # Zavada Web Dev
 
-## <img src="https://github.com/mzavada/portfolio/blob/master/dist/img/favicon.ico"/> Table of Contents
+## [Logo][logo] Table of Contents
+
 - [Learning Tracker](#user-content--learning-tracker)
 - [YouTube Training](#user-content--youtube-training)
 
