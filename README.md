@@ -39,10 +39,17 @@
 |Gulp                       |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |NPM Scripts                |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |AJAX                       |               |                   |               |       |       |
+|Adboe XD                   |![Logo][logo]  |                   |               |       |       |
 
 [Top](#user-content-zavada-web-dev)
 
 ## Online Courses
+
+|Progress       |Course Name                                                                                                                        |Instructor         |
+|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
+|In Progress    |[freeCodeCamp](https://learn.freecodecamp.org) [(Profile)](https://www.freecodecamp.org/fcc1ffe824b-a8fb-459a-930d-c9dc08410334)   |                   |
+|Coming Soon    |[JavaScript30](https://javascript30.com/)                                                                                          |Wes Bos            |
+|Coming Soon    |[The Complete 2019 Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp/)                         |Angela Yu          |
 
 [Top](#user-content-zavada-web-dev)
 
