@@ -48,7 +48,7 @@
 |Progress       |Course Name                                                                                                                        |Instructor         |
 |:-------------:|:----------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
 |In Progress    |[freeCodeCamp](https://learn.freecodecamp.org) [(Profile)](https://www.freecodecamp.org/fcc1ffe824b-a8fb-459a-930d-c9dc08410334)   |                   |
-|Coming Soon    |[JavaScript30](https://javascript30.com/)                                                                                          |Wes Bos            |
+|In Progress    |[JavaScript30](https://javascript30.com/)[GH](https://github.com/mzavada/JavaScript30)                                             |Wes Bos            |
 |Coming Soon    |[The Complete 2019 Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp/)                         |Angela Yu          |
 |In Progress    |[CSS to Sass: Converting an Existing Site](https://www.linkedin.com/learning/css-to-sass-converting-an-existing-site)              |John Riviello      |
 
