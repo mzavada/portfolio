@@ -25,32 +25,35 @@
 |Progressive Enhancment     |               |                   |               |       |       |
 |CSS Grid & Flex-box        |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |GitHub                     |![Logo][logo]  |![Logo][logo]      |               |       |       |
+|Git/Git bash               |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |Bootstrap                  |![Logo][logo]  |                   |               |       |       |
 |jQuery                     |![Logo][logo]  |                   |               |       |       |
 |Publishing Website         |![Logo][logo]  |![Logo][logo]      |               |       |       |
-|Git/Git bash               |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |Command Line               |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |Markdown                   |![Logo][logo]  |![Logo][logo]      |![Logo][logo]  |       |       |
 |Node.js                    |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |NPM                        |![Logo][logo]  |![Logo][logo]      |               |       |       |
+|NPM Scripts                |![Logo][logo]  |![Logo][logo]      |               |       |       |
 |Open Source Contribution   |               |                   |               |       |       |
+|Vue.js                     |![Logo][logo]  |                   |               |       |       |
 |React                      |               |                   |               |       |       |
 |Angular 4                  |               |                   |               |       |       |
 |Gulp                       |![Logo][logo]  |![Logo][logo]      |               |       |       |
-|NPM Scripts                |![Logo][logo]  |![Logo][logo]      |               |       |       |
+|Webpack                    |               |                   |               |       |       |
 |AJAX                       |               |                   |               |       |       |
-|Adboe XD                   |![Logo][logo]  |                   |               |       |       |
+|Adboe XD                   |![Logo][logo]  |![Logo][logo]      |               |       |       |
 
 [Top](#user-content-zavada-web-dev)
 
 ## Online Courses
 
-|Progress       |Course Name                                                                                                                        |Instructor         |
-|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
-|In Progress    |[freeCodeCamp](https://learn.freecodecamp.org) [(Profile)](https://www.freecodecamp.org/fcc1ffe824b-a8fb-459a-930d-c9dc08410334)   |                   |
-|In Progress    |[JavaScript30](https://javascript30.com/)[ (GH)](https://github.com/mzavada/JavaScript30)                                             |Wes Bos            |
-|Coming Soon    |[The Complete 2019 Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp/)                         |Angela Yu          |
-|In Progress    |[CSS to Sass: Converting an Existing Site](https://www.linkedin.com/learning/css-to-sass-converting-an-existing-site)              |John Riviello      |
+|Progress       |Course Name                                                                                                                                    |Instructor         |
+|:-------------:|:----------------------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
+|In Progress    |[freeCodeCamp](https://learn.freecodecamp.org) [(Profile)](https://www.freecodecamp.org/fcc1ffe824b-a8fb-459a-930d-c9dc08410334)               |                   |
+|In Progress    |[JavaScript30](https://javascript30.com/)[ (GH)](https://github.com/mzavada/JavaScript30)                                                      |Wes Bos            |
+|In Progess     |[The Complete 2019 Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp/)                                     |Angela Yu          |
+|In Progress    |[CSS to Sass: Converting an Existing Site](https://www.linkedin.com/learning/css-to-sass-converting-an-existing-site)                          |John Riviello      |
+|In Progress    |[The Modern JavaScript Bootcamp (2018)](https://www.udemy.com/modern-javascript/)[ GH](https://github.com/mzavada/Modern-JavaScript-Bootcamp)  |Andrew Mead        |
 
 [Top](#user-content-zavada-web-dev)
 

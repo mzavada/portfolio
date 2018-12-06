@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="z_sqlogo.svg"
-   inkscape:export-filename="D:\OneDrive\GitHub\portfolio\dist\img\apple-touch-icon.png"
-   inkscape:export-xdpi="72.57"
-   inkscape:export-ydpi="72.57">
+   inkscape:export-filename="D:\OneDrive\GitHub\portfolio\dist\img\22.png"
+   inkscape:export-xdpi="12.901587"
+   inkscape:export-ydpi="12.901587">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="120.64488"
-     inkscape:cy="101.72573"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="110.39961"
+     inkscape:cy="112.91111"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,5 +85,17 @@
            style="font-size:35.27777863px;fill:#f1d700;fill-opacity:1"
            id="tspan4588"
            dy="-2.4000001">}</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.12659645px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47816488"
+       x="30.862194"
+       y="-114.4409"
+       id="text820"
+       transform="matrix(0,1.6189005,-0.61770319,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan818"
+         x="30.862194"
+         y="-114.4409"
+         style="fill:#45cbef;fill-opacity:1;stroke-width:0.47816488">l</tspan></text>
   </g>
 </svg>
